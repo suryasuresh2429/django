@@ -1,0 +1,16 @@
+.content {
+    margin-top: 5%;
+}
+
+
+.striker {
+    text-decoration: line-through;
+}
+body{
+    background-image: url(/static/images/bg1.jpg);
+    background-size: cover;
+}
+th{
+    color: white;
+    
+}
